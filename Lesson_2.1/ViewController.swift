@@ -12,7 +12,6 @@ class ViewController: NSViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("Viktor")
     }
 
     override var representedObject: Any? {
