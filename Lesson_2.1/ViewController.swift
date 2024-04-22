@@ -12,7 +12,7 @@ class ViewController: NSViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("Viktor")
+        print("Arsalan")
     }
 
     override var representedObject: Any? {
